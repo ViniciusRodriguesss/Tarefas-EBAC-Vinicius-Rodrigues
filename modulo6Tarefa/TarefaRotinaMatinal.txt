@@ -1,0 +1,20 @@
+Rotina Matinal:
+		iNICIO:
+1- Acordo, me levanto da cama;
+2- Abro a porta do quarto;
+3- Desco as escadas para ir ao banheiro;
+4- O banheiro esta ocupado? 
+	Sim:
+	-Verificar oque tem para comer.
+	-Beber um copo d'agua
+	-Verificar novamente o banheiro.
+	Não:
+	-Usar o banheiro;
+	-Escovar o dente.
+5- Ir para a cozinha
+7-Pegar um copo de café com leite;
+8-Fazer um pão com ovo;
+9-Escolher alguma coisa para assitir;
+10-Sentar na mesa e comer;	
+11-Ir estudar;
+		FIM.
